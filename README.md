@@ -1,4 +1,6 @@
-Project to make Pepper robot a teaching assisant. It allows you to control Pepper's movement, tablet display, and voice
+<h2>Project to make Pepper robot a teaching assisant. 
+  
+It allows you to control Pepper's movement, tablet display, and voice</h2>
 
 Python version: 3.5.2
 
