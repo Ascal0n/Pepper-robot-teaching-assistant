@@ -1,3 +1,5 @@
+Project to make Pepper robot a teaching assisant. It allows you to control Pepper's movement, tablet display, and voice
+
 Python version: 3.5.2
 
 Install ubuntu 16.04:
